@@ -10,7 +10,7 @@ import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatButtonModule} from '@angular/material/button';
 import { ProductPageComponent } from './product-page/product-page.component';
 import { ProductDetailsLayoutComponent } from './product-details-layout/product-details-layout.component';
-import { HammerModule } from '@angular/platform-browser';
+
 
 
 @NgModule({
@@ -19,7 +19,7 @@ import { HammerModule } from '@angular/platform-browser';
     NavbarComponent,
     ProductPageComponent,
     ProductDetailsLayoutComponent,
-    HammerModule
+    
    
 
   ],
